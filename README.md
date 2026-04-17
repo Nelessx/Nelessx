@@ -66,7 +66,6 @@
 ---
 
 ## 🧩 Featured Projects
-> *(Pin your best projects on your profile for visibility)*
 
 - 📚 **BookStore ABP** – Full-stack bookstore system using .NET  
 - 💊 **Pharmacy System** – Business management app  

@@ -1,37 +1,101 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Nelessx</h1>
+<h1 align="center">Nilesh Karn</h1>
+<p align="center"><b>Full Stack Developer • .NET • Angular • System Design</b></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+real-world+business+apps;Learning+Microservices;Improving+System+Design;Open+to+Freelance+%2F+Internship+%2F+Junior+Roles" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://nileshkarn.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/nilesh-karn-0928ab283" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="mailto:nilesh.karn.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nelessx&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://nileshkarn.vercel.app/">Portfolio</a> •
+  <a href="https://linkedin.com/in/nilesh-karn-0928ab283">LinkedIn</a> •
+  <a href="mailto:nilesh.karn.dev@gmail.com">Email</a>
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTE4aXNudHBvM3d5bnFycGR1N2N1enZ6ZWdwcXJxM3A1Y2h2aW1naiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="25"> About Me
+## 👨‍💻 About
 
-```yaml
-name: Nelessx
-role: Full Stack Developer
-focus:
-  - Learning Microservices
-  - Building real-world business apps
-  - Improving system design
-opportunities:
-  - Freelance
-  - Internship
-  - Junior Roles
+I’m a Full Stack Developer focused on building **scalable backend systems** and **real-world business applications**.
+
+- Currently learning **Microservices Architecture**
+- Improving **System Design**
+- Building practical, production-style projects
+- Open to **Internship / Junior / Freelance opportunities**
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**  
+C#, .NET, ASP.NET Core, EF Core  
+
+**Frontend**  
+JavaScript, TypeScript, Angular, HTML, CSS  
+
+**Database**  
+PostgreSQL  
+
+---
+
+## 🚀 Projects
+
+### 📚 BookStore ABP
+Full-stack bookstore application built using ASP.NET Boilerplate.
+
+- Tech: .NET, ASP.NET Core, EF Core  
+- Features: Authentication, product management, order workflows  
+- 🔗 https://github.com/Nelessx/BookStore_ABP  
+
+---
+
+### 💊 Pharmacy System
+Business management system designed for real-world usage.
+
+- Tech: .NET, SQL  
+- Features: Inventory, billing, management system  
+- 🔗 https://github.com/Nelessx  
+
+---
+
+### 📅 Calendar App
+Desktop application for scheduling and productivity.
+
+- Tech: C#  
+- Features: Event tracking, scheduling UI  
+- 🔗 https://github.com/Nelessx  
+
+---
+
+### 🌦 Weather App
+Lightweight weather application using external APIs.
+
+- Tech: JavaScript  
+- Features: API integration, real-time weather  
+- 🔗 https://github.com/Nelessx  
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Nelessx&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelessx&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Focus
+
+- Backend engineering with .NET  
+- Scalable architecture & microservices  
+- Writing clean, maintainable code  
+
+---
+
+## 📫 Contact
+
+- Portfolio: https://nileshkarn.vercel.app/  
+- LinkedIn: https://linkedin.com/in/nilesh-karn-0928ab283  
+- Email: nilesh.karn.dev@gmail.com  
+
+---
+
+<p align="center">
+  <i>Building real systems. Learning every day.</i>
+</p>

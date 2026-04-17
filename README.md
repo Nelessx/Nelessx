@@ -1,86 +1,37 @@
-<h1 align="center">Hi 👋, I'm Nelessx</h1>
-<h3 align="center">🚀 Full Stack Developer</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Nelessx</h1>
 
 <p align="center">
-  <a href="https://nileshkarn.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+real-world+business+apps;Learning+Microservices;Improving+System+Design;Open+to+Freelance+%2F+Internship+%2F+Junior+Roles" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://nileshkarn.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/nilesh-karn-0928ab283">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/nilesh-karn-0928ab283" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="mailto:nilesh.karn.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
 </p>
 
----
-
-## 🧠 About Me
-- 💻 Full Stack Developer building scalable applications  
-- ⚙️ Working with modern backend & frontend technologies  
-- 🎯 Focused on writing clean, production-level code  
-
----
-
-## 🚀 Current Focus
-- 🔧 Learning **Microservices Architecture**
-- 🏗️ Building **real-world business applications**
-- 🧠 Improving **System Design skills**
-- 💼 Open to **Freelance / Internship / Junior Roles**
-
----
-
-## ⚡ Tech Stack
-
-### 🖥️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs" />
-</p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,angular,html,css" />
-</p>
-
-### 🗄️ Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nelessx&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nelessx&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelessx&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=Nelessx&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 🧩 Featured Projects
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTE4aXNudHBvM3d5bnFycGR1N2N1enZ6ZWdwcXJxM3A1Y2h2aW1naiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="25"> About Me
 
-- 📚 **BookStore ABP** – Full-stack bookstore system using .NET  
-- 💊 **Pharmacy System** – Business management app  
-- 📅 **Calendar App** – Desktop scheduling tool  
-- 🌦 **Weather App** – API-based weather tracker  
-
----
-
-## 📫 Connect With Me
-- 🌐 Portfolio: https://nileshkarn.vercel.app/  
-- 💼 LinkedIn: https://linkedin.com/in/nilesh-karn-0928ab283  
-- 📧 Email: nilesh.karn.dev@gmail.com  
-
----
-
-<p align="center">
-  ⚡ "Consistency beats intensity — building every day."
-</p>
+```yaml
+name: Nelessx
+role: Full Stack Developer
+focus:
+  - Learning Microservices
+  - Building real-world business apps
+  - Improving system design
+opportunities:
+  - Freelance
+  - Internship
+  - Junior Roles

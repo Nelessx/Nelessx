@@ -28,11 +28,14 @@ learning:
 ---
 
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=3FB950)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![Angular](https://img.shields.io/badge/Angular-0d1117?style=flat-square&logo=angular&logoColor=DD0031)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-0d1117?style=flat-square&logo=dotnet&logoColor=512BD4)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=3FB950)
+![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-0d1117?style=flat-square&logo=dotnet&logoColor=512BD4)
+![ABP Framework](https://img.shields.io/badge/ABP%20Framework-0d1117?style=flat-square&logo=dotnet&logoColor=512BD4)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![EF Core](https://img.shields.io/badge/EF%20Core-0d1117?style=flat-square&logo=dotnet&logoColor=512BD4)
 
 ---

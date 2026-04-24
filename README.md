@@ -18,10 +18,6 @@
 name: Nilesh Karn
 role: Full Stack Developer
 
-learning:
-  - microservices architecture
-  - system design patterns
-
 # nilesh.karn.dev@gmail.com
 ```
 
@@ -37,12 +33,6 @@ learning:
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![EF Core](https://img.shields.io/badge/EF%20Core-0d1117?style=flat-square&logo=dotnet&logoColor=512BD4)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelessx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="50%" />
-</p>
 
 ---
 

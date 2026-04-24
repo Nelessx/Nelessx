@@ -1,12 +1,11 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=2800&pause=1000&color=58A6FF¢er=true&vCenter=true&width=600&lines=%2F%2F+Nelessx;Full+Stack+Developer;React+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+ASP.NET;Open+to+Internship+%2F+Junior+Roles+%2F+Freelance" alt="Nelessx" />
-</h1>
+<h1 align="center">// Nelessx</h1>
+
+<p align="center">full stack developer</p>
 
 <p align="center">
   <a href="https://nileshkarn.vercel.app/"><img src="https://img.shields.io/badge/portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/nilesh-karn-0928ab283"><img src="https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="mailto:nilesh.karn.dev@gmail.com"><img src="https://img.shields.io/badge/gmail-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Nelessx&style=flat-square&color=58a6ff&label=views" />
 </p>
 
 <p align="center">
@@ -17,20 +16,16 @@
 
 ```yaml
 name: Nilesh Karn
-alias: Nelessx
 role: Full Stack Developer
 
-currently_learning:
+learning:
   - microservices architecture
   - system design patterns
 
-open_to: [ internship, junior-roles, freelance ]
 # nilesh.karn.dev@gmail.com
 ```
 
 ---
-
-**stack**
 
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=3FB950)
@@ -43,12 +38,7 @@ open_to: [ internship, junior-roles, freelance ]
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nelessx&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nelessx&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelessx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelessx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="50%" />
 </p>
 
 ---

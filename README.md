@@ -62,10 +62,6 @@
   </strong>
 </p>
 
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,35:7C3AED,65:2563EB,100:0D1117&height=4&section=footer&animation=twinkling" width="100%" />
-</p>
-
 <a href="mailto:nilesh.karn.dev@gmail.com">
   <img src="https://img.shields.io/badge/Let's%20talk-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>

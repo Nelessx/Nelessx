@@ -63,15 +63,15 @@
 </p>
 
 <a href="https://www.facebook.com/nelessx.karn/">
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="30" height="30" />
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="24" height="24" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/nelessx_karn/">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" height="30" />
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="24" height="24" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://wa.me/9779761677067">
-  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="30" height="30" />
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="24" height="24" />
 </a>
 
 </div>

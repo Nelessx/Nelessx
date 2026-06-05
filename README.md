@@ -58,20 +58,20 @@
 
 <p>
   <strong>
-    <span style="font-size: 28px;">LET'S TALK</span>
+    <span style="font-size: 26px;">LET'S TALK</span>
   </strong>
 </p>
 
-<p>
-  <a href="https://www.facebook.com/nelessx.karn/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=0D1117" />
-  </a>
-  <a href="https://www.instagram.com/nelessx_karn/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D1117" />
-  </a>
-  <a href="https://wa.me/9779761677067" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0D1117" />
-  </a>
-</p>
+[<img src="https://skillicons.dev/icons?i=facebook" width="42" />][facebook]
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=instagram" width="42" />][instagram]
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="42" />][whatsapp]
+
+</div>
+
+[facebook]: https://www.facebook.com/nelessx.karn/
+[instagram]: https://www.instagram.com/nelessx_karn/
+[whatsapp]: https://wa.me/9779761677067
 
 </div>

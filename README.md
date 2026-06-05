@@ -18,10 +18,12 @@
 
 <br />
 
-<h2>
-  <img src="https://img.shields.io/badge/%3C%2F%3E-0D1117?style=flat-square&labelColor=0D1117&color=0D1117" />
-  Tech Stack
-</h2>
+<p>
+  <strong>
+    <span>&lt;/&gt;</span>
+    <span style="font-size: 26px;">Tech Stack</span>
+  </strong>
+</p>
 
 <p>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:7C3AED,100:0D1117&height=3&section=header&animation=twinkling" width="100%" />
@@ -50,10 +52,14 @@
 
 <div align="center">
 
-<h2>🚀 Building something?</h2>
+<p>
+  <strong>
+    <span style="font-size: 26px;">🚀 Building something?</span>
+  </strong>
+</p>
 
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,35:2563EB,65:7C3AED,100:0D1117&height=4&section=footer&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,35:7C3AED,65:2563EB,100:0D1117&height=4&section=footer&animation=twinkling" width="100%" />
 </p>
 
 <a href="mailto:nilesh.karn.dev@gmail.com">

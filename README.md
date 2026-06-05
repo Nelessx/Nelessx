@@ -15,8 +15,9 @@
 </p>
 
 </div>
-
 <br />
+<div align="center">
+
 
 <p>
   <strong>
@@ -47,6 +48,7 @@
   <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=0D1117" />
 </p>
+</div>
 
 <br />
 

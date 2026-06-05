@@ -56,14 +56,28 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,20:1F2937,50:F8FAFC,80:1F2937,100:0D1117&height=4&section=footer&animation=blinking" width="100%" />
 </p>
 
+<div align="center">
+
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,20:1F2937,50:F8FAFC,80:1F2937,100:0D1117&height=4&section=footer&animation=blinking" width="100%" />
+</p>
+
 <p>
   <strong>
-    <span style="font-size: 26px;"> Building something?</span>
+    <span style="font-size: 28px;">LET'S TALK</span>
   </strong>
 </p>
 
-<a href="mailto:nilesh.karn.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Let's%20talk-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p>
+  <a href="https://www.facebook.com/nelessx.karn/">
+    <img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=0D1117" />
+  </a>
+  <a href="https://www.instagram.com/nelessx_karn/">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D1117" />
+  </a>
+  <a href="https://wa.me/9779761677067">
+    <img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0D1117" />
+  </a>
+</p>
 
 </div>

@@ -53,8 +53,12 @@
 <div align="center">
 
 <p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,35:7C3AED,65:2563EB,100:0D1117&height=4&section=footer&animation=twinkling" width="100%" />
+</p>
+
+<p>
   <strong>
-    <span style="font-size: 26px;">🚀 Building something?</span>
+    <span style="font-size: 26px;"> Building something?</span>
   </strong>
 </p>
 

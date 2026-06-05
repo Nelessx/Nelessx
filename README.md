@@ -62,16 +62,16 @@
   </strong>
 </p>
 
-[<img src="https://skillicons.dev/icons?i=facebook" width="42" />][facebook]
+<a href="https://www.facebook.com/nelessx.karn/">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="30" height="30" />
+</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://skillicons.dev/icons?i=instagram" width="42" />][instagram]
+<a href="https://www.instagram.com/nelessx_karn/">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" height="30" />
+</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="42" />][whatsapp]
-
-</div>
-
-[facebook]: https://www.facebook.com/nelessx.karn/
-[instagram]: https://www.instagram.com/nelessx_karn/
-[whatsapp]: https://wa.me/9779761677067
+<a href="https://wa.me/9779761677067">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="30" height="30" />
+</a>
 
 </div>

@@ -1,3 +1,21 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:312E81,100:2563EB&height=220&section=header&text=Nelessx&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=58&animation=fadeIn" />
+
+<p>
+  <a href="https://nileshkarn.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nilesh.karn.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
 <h3 align="left">Tech Stack</h3>
 
 <table>
@@ -27,8 +45,6 @@
     </td>
   </tr>
 </table>
-
-<br />
 
 <div align="center">
 

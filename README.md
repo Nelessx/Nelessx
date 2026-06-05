@@ -51,7 +51,5 @@
 ### Building something?
 
 <a href="mailto:nilesh.karn.dev@gmail.com"><strong>Let's talk</strong></a>
-&nbsp;·&nbsp;
-<a href="https://nileshkarn.vercel.app">nileshkarn.vercel.app</a>
 
 </div>

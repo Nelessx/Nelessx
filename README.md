@@ -16,40 +16,45 @@
 
 </div>
 
-<h3 align="left">Tech Stack</h3>
+<br />
 
-<table>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Angular-0D1117?style=flat-square&logo=angular&logoColor=DD0031" />
-      <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
-      <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=FFFFFF" />
-      <img src="https://img.shields.io/badge/ASP.NET_Core-0D1117?style=flat-square&logo=dotnet&logoColor=8B5CF6" />
-      <img src="https://img.shields.io/badge/ABP_Framework-0D1117?style=flat-square&logo=dotnet&logoColor=8B5CF6" />
-      <img src="https://img.shields.io/badge/EF_Core-0D1117?style=flat-square&logo=dotnet&logoColor=8B5CF6" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Database</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" />
-      <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
-    </td>
-  </tr>
-</table>
+<h2>
+  <img src="https://img.shields.io/badge/%3C%2F%3E-0D1117?style=flat-square&labelColor=0D1117&color=0D1117" />
+  Tech Stack
+</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=0D1117" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-0D1117?style=for-the-badge&logo=dotnet&logoColor=8B5CF6&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/ABP_Framework-0D1117?style=for-the-badge&logo=dotnet&logoColor=8B5CF6&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/EF_Core-0D1117?style=for-the-badge&logo=dotnet&logoColor=8B5CF6&labelColor=0D1117" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=0D1117" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:312E81,100:2563EB&height=2&section=footer" />
+</p>
 
 <div align="center">
 
-### Building something?
+###  Building something?
 
-<a href="mailto:nilesh.karn.dev@gmail.com"><strong>Let's talk</strong></a>
+<a href="mailto:nilesh.karn.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Let's%20talk-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 
 </div>

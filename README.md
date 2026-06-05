@@ -18,14 +18,14 @@
 
 <br />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:7C3AED,100:0D1117&height=3&section=header&animation=twinkling" width="100%" />
-</p>
-
 <h2>
   <img src="https://img.shields.io/badge/%3C%2F%3E-0D1117?style=flat-square&labelColor=0D1117&color=0D1117" />
   Tech Stack
 </h2>
+
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:7C3AED,100:0D1117&height=3&section=header&animation=twinkling" width="100%" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
@@ -48,19 +48,16 @@
 
 <br />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,35:2563EB,65:7C3AED,100:0D1117&height=4&section=footer&animation=twinkling" width="100%" />
-</p>
-
 <div align="center">
 
 <h2>🚀 Building something?</h2>
 
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,35:2563EB,65:7C3AED,100:0D1117&height=4&section=footer&animation=twinkling" width="100%" />
+</p>
+
 <a href="mailto:nilesh.karn.dev@gmail.com">
   <img src="https://img.shields.io/badge/Let's%20talk-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://nileshkarn.vercel.app">
-  <img src="https://img.shields.io/badge/nileshkarn.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" />
 </a>
 
 </div>

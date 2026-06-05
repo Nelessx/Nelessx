@@ -26,7 +26,7 @@
 </p>
 
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:7C3AED,100:0D1117&height=3&section=header&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,20:1F2937,50:F8FAFC,80:1F2937,100:0D1117&height=3&section=header&animation=blinking" width="100%" />
 </p>
 
 <p>
@@ -53,7 +53,7 @@
 <div align="center">
 
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,35:7C3AED,65:2563EB,100:0D1117&height=4&section=footer&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,20:1F2937,50:F8FAFC,80:1F2937,100:0D1117&height=4&section=footer&animation=blinking" width="100%" />
 </p>
 
 <p>

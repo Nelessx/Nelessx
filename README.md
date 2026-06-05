@@ -14,11 +14,13 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=60A5FA&center=true&vCenter=true&width=500&lines=Building+clean+web+experiences;Full+Stack+Developer;React+%E2%80%A2+Angular+%E2%80%A2+.NET+%E2%80%A2+Node.js" />
-
 </div>
 
 <br />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:7C3AED,100:0D1117&height=3&section=header&animation=twinkling" width="100%" />
+</p>
 
 <h2>
   <img src="https://img.shields.io/badge/%3C%2F%3E-0D1117?style=flat-square&labelColor=0D1117&color=0D1117" />
@@ -47,14 +49,12 @@
 <br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:312E81,100:2563EB&height=2&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,35:2563EB,65:7C3AED,100:0D1117&height=4&section=footer&animation=twinkling" width="100%" />
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1500&color=F8FAFC&center=true&vCenter=true&width=420&lines=%F0%9F%9A%80+Building+something%3F" />
-
-<br />
+<h2>🚀 Building something?</h2>
 
 <a href="mailto:nilesh.karn.dev@gmail.com">
   <img src="https://img.shields.io/badge/Let's%20talk-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />

@@ -56,12 +56,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,20:1F2937,50:F8FAFC,80:1F2937,100:0D1117&height=4&section=footer&animation=blinking" width="100%" />
 </p>
 
-<div align="center">
-
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,20:1F2937,50:F8FAFC,80:1F2937,100:0D1117&height=4&section=footer&animation=blinking" width="100%" />
-</p>
-
 <p>
   <strong>
     <span style="font-size: 28px;">LET'S TALK</span>
